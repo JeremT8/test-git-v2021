@@ -1,9 +1,9 @@
 * {
-    background-color: black;
-    color: white;
-    font-size: 2em;
-    font-weight: 700;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: uppercase;
-    margin: 3%;
+    font-size: 1.1em;
+}
+
+li, a{
+    list-style: none;
+    color: black;
+    text-decoration: none;
 }
